@@ -1,6 +1,6 @@
-print("Hello from repo!")
-print("changes from local!")
+print("Hello from georgia!")
+print("changes from global!")
 
-print("hello from GitHub...")
+print("hello from superman...")
 
-print("Hello Edit !")
+print("Hello guys !")
